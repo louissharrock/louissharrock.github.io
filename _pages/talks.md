@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Talks
 * **Two Timescale Stochastic Gradient Descent in Continuous Time with Applications to Joint Online Parameter Estimation and Optimal Sensor Placement.**  
 <span style="color:lightgrey">11th June 2020.</span>   
 Contributed Talk, Mathematics of Data Science Conference, UK.
@@ -17,6 +18,12 @@ Contributed Talk, MATHMET 2019 International Conference, Lisbon (Portugal).
 <span style="color:lightgrey">13th November 2019.</span>     
 Contributed Talk, Workshop on Big Data, Data Assimilation and Uncertainty Quantification. CliMathParis 2019, IHP, Paris (France).
 
+* **An Application of Bayesian Networks to Yield Prediction in Portuguese Viticulture.**  
+<span style="color:lightgrey">1st November 2018.</span>     
+Contributed Talk, 6th Annual BayesiaLab Conference, Chicago (USA).
+
+
+## Poster Presentations
 * **Large Scale Inference and Optimal Design with Applications to Environmental Monitoring.**  
 <span style="color:lightgrey">6th November 2019.</span>     
 Poster Presentation, The Postgraduate Institute Conference, NPL, Teddington (UK).  
@@ -25,6 +32,6 @@ Poster Presentation, The Postgraduate Institute Conference, NPL, Teddington (UK)
 <span style="color:lightgrey">3rd July 2019.</span>     
 Poster Presentation, Workshop on Stochastic Parameterisations and Their Use in Data Assimilation, Imperial College London, London (UK).
 
-* **An Application of Bayesian Networks to Yield Prediction in Portuguese Viticulture.**  
-<span style="color:lightgrey">1st November 2018.</span>     
-Contributed Talk, 6th Annual BayesiaLab Conference, Chicago (USA).
+* **Large Scale Inference with Applications to Environmental Monitoring.**  
+<span style="color:lightgrey">21st May 2019.</span>     
+Poster Presentation, Postgraduate Forum, Imperail College London, London (UK). 
