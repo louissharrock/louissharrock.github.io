@@ -14,7 +14,7 @@ description              : &description "PhD Candidate, Imperial College London"
 url                      : https://louissharrock.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "louissharrock/louissharrock.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "IMG_0340.JPG"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
