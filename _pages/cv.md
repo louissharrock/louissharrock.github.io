@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Coming soon.
+My complete CV can be downloaded [here](https://louissharrock.github.io/files/CV.pdf)
