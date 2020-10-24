@@ -11,7 +11,7 @@ redirect_from:
 ## About Me
 
 <div style="text-align: justify">
-I am a 3rd year PhD student in the Mathematics Department at Imperial College London, supervised by <a href="http://wwwf.imperial.ac.uk/~nkantas/">Dr Nikolas Kantas</a>. I am jointly funded by the EPSRC <a href="http://mpecdt.org/">[Centre for Doctoral Training in the Mathematics of Planet Earth</a> and the <a href="https://www.npl.co.uk/">National Physical Laboratory</a>. I hold an MRes in Mathematics and an MSc in Statistics from Imperial College London, and an MA in Mathematics from the University of Cambridge. 
+I am a 3rd year PhD student in the Mathematics Department at Imperial College London, supervised by <a href="http://wwwf.imperial.ac.uk/~nkantas/">Dr Nikolas Kantas</a>. I am jointly funded by the EPSRC <a href="http://mpecdt.org/">Centre for Doctoral Training in the Mathematics of Planet Earth</a> and the <a href="https://www.npl.co.uk/">National Physical Laboratory</a>. I hold an MRes in Mathematics and an MSc in Statistics from Imperial College London, and an MA in Mathematics from the University of Cambridge. 
 </div>
 
 ## Research Interests
