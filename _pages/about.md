@@ -20,16 +20,16 @@ My research focuses on the development and analysis of efficient computational m
 
 ## Contact Details
 
-### Address
-Louis Sharrock
-Department of Mathematics
-Imperial College London
-180 Queen's Gate
-South Kensington
-London, UK
+**Address**
+Louis Sharrock  
+Department of Mathematics  
+Imperial College London  
+180 Queen's Gate  
+South Kensington  
+London, UK  
 SW7 2AZ
 
-### Email
+**Email**
 louis.sharrock16@imperial.ac.uk
 
 
