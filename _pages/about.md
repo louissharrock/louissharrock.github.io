@@ -25,9 +25,7 @@ Louis Sharrock
 Department of Mathematics  
 Imperial College London  
 180 Queen's Gate  
-South Kensington  
-London, UK  
-SW7 2AZ
+London, SW7 2AZ
 
 **Email**  
 louis.sharrock16@imperial.ac.uk
