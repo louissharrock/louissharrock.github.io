@@ -7,4 +7,9 @@ redirect_from:
   - /miscellaneous.html
 ---
 
-Coming soon.
+### Some recent photos.
+
+{% include image-gallery.html folder="/images/autumn" %}
+
+
+
