@@ -7,7 +7,7 @@ redirect_from:
   - /miscellaneous.html
 ---
   
-Some recent photos.
+Some recent photos! 
 
 ### Wimbledon
 <span style = "color:lightgrey">November 2020</span>
@@ -27,3 +27,4 @@ Some recent photos.
 {% include image-gallery.html folder="/images/usa" %}
 
 
+More on [Instagram](https://www.instagram.com/louis.sharrock/?hl=en)!
