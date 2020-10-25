@@ -6,8 +6,9 @@ redirect_from:
   - /misc/
   - /miscellaneous.html
 ---
-
-When I'm not working, my time is split fairly evenly between running long distances, singing (not very well) and playing the piano (slightly better), travelling (subject to global pandemics), and trying to take half-decent photos (see below...you can be the judge).
+  
+  
+##### When I'm not working, my time is split between running or cycling long distances, singing (not very well) or playing the piano, travelling (currently on pause), and trying to take half-decent photos (see below...you can be the judge).
 
 
 ### Wimbledon
