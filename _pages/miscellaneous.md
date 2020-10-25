@@ -7,7 +7,11 @@ redirect_from:
   - /miscellaneous.html
 ---
   
-<span style = "color:grey"> When I'm not doing maths, I'm probably running (a long way), singing (not very well), travelling (subject to current circumstances), or trying to take a half decent photo (you can be the judge...)! Here are some recent shots! </span>
+<div style="text-align: justify">
+<span style = "color:grey"> 
+When I'm not doing maths, I'm probably running (a long way), singing (not very well), travelling (subject to current circumstances), or trying to take a half decent photo (you can be the judge...)! Here are some recent shots! 
+</span>
+</div>
 
 ### Wimbledon
 <span style = "color:lightgrey">November 2020</span>
