@@ -7,6 +7,8 @@ redirect_from:
   - /miscellaneous.html
 ---
 
+When I'm not working, my time is split fairly evenly between running long distances, singing (not very well) and playing the piano (slightly better), travelling (subject to global pandemics), and trying to take half-decent photos (see below...you can be the judge).
+
 
 ### Wimbledon
 <span style = "color:lightgrey">November 2020</span>
