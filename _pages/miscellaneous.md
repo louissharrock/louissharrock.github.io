@@ -7,14 +7,15 @@ redirect_from:
   - /miscellaneous.html
 ---
 
+
 ### Wimbledon
-**November 2019**
+<span style = "color:lightgrey">November 2019</span>
 
 {% include image-gallery.html folder="/images/wimbledon_common" %}
 
 
 ### Peak District
-**September 2019**
+<span style = "color:lightgrey">September 2019</span>
 
 {% include image-gallery.html folder="/images/peak_district" %}
 
