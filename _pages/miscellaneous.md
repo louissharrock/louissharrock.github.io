@@ -7,9 +7,15 @@ redirect_from:
   - /miscellaneous.html
 ---
 
-### Some recent photos.
+### Wimbledon
+**November 2019**
 
-{% include image-gallery.html folder="/images/autumn" %}
+{% include image-gallery.html folder="/images/wimbledon_common" %}
 
+
+### Peak District
+**September 2019**
+
+{% include image-gallery.html folder="/images/peak_district" %}
 
 
