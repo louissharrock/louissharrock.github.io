@@ -7,7 +7,7 @@ redirect_from:
   - /miscellaneous.html
 ---
   
-Some recent photos! 
+<span style = "color:grey"> When I'm not doing maths, I'm probably running (a long way), singing (not very well), travelling (subject to current circumstances), or trying to take a half decent photo (you can be the judge). Here are some recent ones! </span>
 
 ### Wimbledon
 <span style = "color:lightgrey">November 2020</span>
