@@ -7,10 +7,8 @@ redirect_from:
   - /miscellaneous.html
 ---
   
-<div style="text-align: justify">
-<span style = "color:grey"> 
+<div style="text-align: justify"> 
 When I'm not doing maths, I'm usually running or cycling (a long way), singing or playing the piano (enthusiastically but not very well), travelling (subject to current circumstances), or trying to take a half decent photo (you can be the judge...)! Here are some recent shots! 
-</span>
 </div>
 
 ### Wimbledon
