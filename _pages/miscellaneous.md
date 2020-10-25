@@ -7,9 +7,7 @@ redirect_from:
   - /miscellaneous.html
 ---
   
-  
-When I'm not working, my time is spent running or cycling (very) long distances, singing (not very well) or playing the piano, travelling (currently on pause), and trying to take half-decent photos (see below...you can be the judge).
-
+Some recent photos.
 
 ### Wimbledon
 <span style = "color:lightgrey">November 2020</span>
