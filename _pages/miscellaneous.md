@@ -8,7 +8,7 @@ redirect_from:
 ---
   
   
-##### When I'm not working, my time is split between running or cycling long distances, singing (not very well) or playing the piano, travelling (currently on pause), and trying to take half-decent photos (see below...you can be the judge).
+When I'm not working, my time is spent running or cycling (very) long distances, singing (not very well) or playing the piano, travelling (currently on pause), and trying to take half-decent photos (see below...you can be the judge).
 
 
 ### Wimbledon
