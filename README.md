@@ -1,4 +1,4 @@
-# Academic Website #
+## Academic Website ##
 
 This repository contains the source code for my academic website, https://louissharrock.github.io/, which is hosted on [GitHub Pages](https://pages.github.com/). 
 
