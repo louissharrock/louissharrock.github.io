@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-My complete CV can be downloaded [here](https://louissharrock.github.io/files/CV.pdf)
+My complete CV can be downloaded [here](https://github.com/louissharrock/louissharrock.github.io/blob/master/files/CV.pdf)
 
 ## Education
 * PhD in Statistics, Imperial College London, 2018 - 2022 (Expected).
