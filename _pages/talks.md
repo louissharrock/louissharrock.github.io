@@ -8,15 +8,15 @@ author_profile: true
 ## Talks
  
 * **Parameter Estimation for The Stochastic McKean-Vlasov Equation.**  
-<span style="color:lightgrey">11th August 2021 (Upcoming).</span> 
+<span style="color:lightgrey">11th August 2021 (Upcoming).</span>     
 Joint Statistical Meetings 2021, Seattle (USA) (Remote).
 
 * **Online Parameter Estimation for The McKean-Vlasov Stochastic Differential Equation.**  
-<span style="color:lightgrey">5th August 2021 (Upcoming).</span>   
+<span style="color:lightgrey">5th August 2021 (Upcoming).</span>       
 Contributed Talk, 3rd International Conference on Statistics: Theory and Applications, Prague (Czech Republic) (Remote).
 
 * **Parameter Estimation for Weakly Interacting Particle Systems and Stochastic McKean-Vlasov Processes.**  
-<span style="color:lightgrey">19th - 23rd July 2021 (Upcoming).</span>   
+<span style="color:lightgrey">19th - 23rd July 2021 (Upcoming).</span>     
 Contributed Talk, Bernoulli-IMS 10th World Congress in Probability and Statistics, Seoul (South Korea) (Remote).
 
 * **Two Timescale Stochastic Gradient Descent in Continuous Time with Applications to Joint Online Parameter Estimation and Optimal Sensor Placement.**  
