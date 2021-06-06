@@ -17,6 +17,7 @@ author_profile: true
 
 *In this paper, we consider the problem of jointly performing online parameter estimation and optimal sensor placement for a partially observed infinite dimensional linear diffusion process. We present a novel solution to this problem in the form of a continuous-time, two-timescale stochastic gradient descent algorithm, which recursively seeks to maximise the log-likelihood with respect to the unknown model parameters, and to minimise the expected mean squared error of the hidden state estimate with respect to the sensor locations. We also provide extensive numerical results illustrating the performance of the proposed approach in the case that the hidden signal is governed by the two-dimensional stochastic advection-diffusion equation.*    
 
+&nbsp;
 
 ## In Preparation
 
