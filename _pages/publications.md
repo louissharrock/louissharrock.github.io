@@ -14,4 +14,4 @@ author_profile: true
 
 ## In Preparation
 
-* Sharrock, L., Kantas, N., Pavliotis, G. and Panos, P. “Parameter Estimation for the Stochastic McKean-Vlasov Equation.” (2021).
+* Sharrock, L., Kantas, N., Pavliotis, G. and Panos, P. (2021). “Parameter Estimation for the Stochastic McKean-Vlasov Equation.”
