@@ -9,7 +9,7 @@ author_profile: true
  
 * **Parameter Estimation for The Stochastic McKean-Vlasov Equation.**  
 <span style="color:lightgrey">11th August 2021 (Upcoming).</span>     
-Joint Statistical Meetings 2021, Seattle (USA) (Remote).
+Contributed Talk, Joint Statistical Meetings 2021, Seattle (USA) (Remote).
 
 * **Online Parameter Estimation for The McKean-Vlasov Stochastic Differential Equation.**  
 <span style="color:lightgrey">5th August 2021 (Upcoming).</span>       
