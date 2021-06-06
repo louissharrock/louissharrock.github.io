@@ -37,8 +37,8 @@ Contributed Talk, 6th Annual BayesiaLab Conference, Chicago (USA).
 
 
 ## Poster Presentations
-* **Large Scale Inference and Optimal Design with Applications to Environmental Monitoring.**  
-<span style="color:lightgrey">6th November 2019.</span>     
+* **Large Scale Inference and Optimal Design with Applications to Environmental Monitoring.**    
+<span style="color:lightgrey">6th November 2019.</span>       
 Poster Presentation, The Postgraduate Institute Conference, NPL, Teddington (UK).  
 
 * **Online Parameter Estimation in Continuous Time with Applications to a Stochastic Advection Diffusion Equation.**  
@@ -51,6 +51,6 @@ Poster Presentation, Postgraduate Forum, Imperail College London, London (UK).
 
 
 ## Other
-* **4th Annual MPE CDT Symposium on Wellbeing, Inclusivity, Diversity and Equality in STEM**.
-<span style="color:lightgrey">19th May 2021.</span>  
+* **4th Annual MPE CDT Symposium on Wellbeing, Inclusivity, Diversity and Equality in STEM**.  
+<span style="color:lightgrey">19th May 2021.</span>    
 Conference Co-Organiser, London (UK) (Remote).
