@@ -11,7 +11,7 @@ redirect_from:
 ## About Me
 
 <div style="text-align: justify">
-I am a finaly year PhD Student in Computational Statistics and Machine Learning at Imperial College London, supervised by <a href="http://wwwf.imperial.ac.uk/~nkantas/">Dr Nikolas Kantas</a>. I am jointly funded by EPSRC <a href="http://mpecdt.org/">Centre for Doctoral Training in the Mathematics of Planet Earth</a> and the <a href="https://www.npl.co.uk/">National Physical Laboratory</a>. 
+I am a 3rd year PhD Student in Computational Statistics and Machine Learning at Imperial College London, supervised by <a href="http://wwwf.imperial.ac.uk/~nkantas/">Dr Nikolas Kantas</a>. I am jointly funded by EPSRC <a href="http://mpecdt.org/">Centre for Doctoral Training in the Mathematics of Planet Earth</a> and the <a href="https://www.npl.co.uk/">National Physical Laboratory</a>. 
 
 ## Research Interests
 
