@@ -6,7 +6,7 @@ subtitle: Senior Research Associate in Statistical Machine Learning
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: profile-pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Fry Building</p>
