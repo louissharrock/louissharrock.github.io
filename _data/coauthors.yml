@@ -13,3 +13,16 @@
 "Nemeth":
   - firstname: ["Christopher", "C."]
     url: https://chris-nemeth.github.io/
+    
+"Mackey":
+  - firstname: ["Lester", "L."]
+    url: https://web.stanford.edu/~lmackey/index.html
+    
+"Liu":
+  - firstname: ["Song", "S."]
+    url: https://allmodelsarewrong.net/
+    
+"Beaumont":
+  - firstname: ["Mark", "M."]
+    url: https://www.bristol.ac.uk/people/person/Mark-Beaumont-c51e682d-904b-45b4-bda5-9cf2213d4e9d/
+
