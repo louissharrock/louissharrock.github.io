@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: A list of journal articles, conference papers, and preprints.
+description: journal articles, conference papers, and preprints.
 years: [2023, 2022, 2021]
 nav: true
 nav_order: 1
