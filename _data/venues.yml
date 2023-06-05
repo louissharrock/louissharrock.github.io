@@ -1,18 +1,11 @@
 "ICML":
   url: https://icml.cc/
-  color: "#a4343a"
 
 "SPA":
   url: https://www.sciencedirect.com/journal/stochastic-processes-and-their-applications
-  color: "#a4343a"
  
 "Bernoulli":
   url: https://projecteuclid.org/journals/bernoulli
-  color: "#a4343a"
   
 "SIAM":
   url: https://epubs.siam.org/journal/sjuqa3
-  color: "#a4343a"
-  
-"arXiv":
-  color: "#a4343a"
