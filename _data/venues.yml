@@ -1,6 +1,9 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"ICML":
+  url: https://icml.cc/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Stochastic Processes and their Applications":
+  url: https://www.sciencedirect.com/journal/stochastic-processes-and-their-applications
+ 
+"Bernoulli":
+  url: https://projecteuclid.org/journals/bernoulli
