@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper - "Online Parameter Estimation for the McKean-Vlasov Stochastic Differential Equation" - has been accepted to Stochastic Processes and their Applications.
+Our paper - "[Online Parameter Estimation for the McKean-Vlasov Stochastic Differential Equation](https://www.sciencedirect.com/science/article/pii/S0304414923000972)" - has been accepted to Stochastic Processes and their Applications.
