@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will give a talk about our recent work on coin sampling in the [OxCSML](https://csml.stats.ox.ac.uk/) seminar series.
+On 9th June I will give a talk about our [recent work](https://arxiv.org/abs/2301.11294) on coin sampling in the [OxCSML](https://csml.stats.ox.ac.uk/) seminar series.
