@@ -25,4 +25,27 @@
 "Beaumont":
   - firstname: ["Mark", "M."]
     url: https://www.bristol.ac.uk/people/person/Mark-Beaumont-c51e682d-904b-45b4-bda5-9cf2213d4e9d/
+    
+"Benedetti":
+  - firstname: ["Marcello", "M."]
+    url: https://scholar.google.co.uk/citations?user=Pj-XjgkAAAAJ&hl=en
+    
+ "Coyle":
+  - firstname: ["Brian", "B."]
+    url: https://briancoyle1.wixsite.com/briancoyle
+    
+ "Leadbeater":
+  - firstname: ["Chiara", "C."]
+    url: https://www.ch.cam.ac.uk/person/cnl29
+ 
+ "Dodd":
+  - firstname: ["Daniel", "D."]
+    url: https://www.lancaster.ac.uk/maths/people/daniel-dodd
+    
+ "Simons":
+  - firstname: ["Jack", "J."]
+    url: https://www.bristolmathsresearch.org/staff-profile/mr-jack-simons/
+ 
+ 
+ 
 
