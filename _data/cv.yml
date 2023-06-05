@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Computational Statistics
       institution: Imperial College London, UK
       year: 2022
       description:
@@ -38,23 +38,36 @@
     - title: Research Scientist
       institution: Cambridge Quantum 
       year: 2021
+      
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Co-Instructor
+      institution: Statistical Machine Learning, University of Bristol
+      year: 2023
+    - title: Teaching Assistant
+      institution: Probability and Statistics I, Imperial College London
+      year: 2019
+    - title: Teaching Assistant
+      institution: Data and Uncertainty, Imperial College London
+      year: 2018
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
+    - year: 2023
       items: 
-        - Yael Dowker Prize
+        - Yael Dowker Prize (proxime accessit), Department of Mathematics, Imperial College London.
     - year: 2020
       items: 
-        - Doris Chen Merit Award (shortlist)
+        - Doris Chen Merit Award (shortlist), Department of Mathematics, Imperial College London.
     - year: 2018
       items: 
-        - MRes Student of the Year
+        - MRes Student of the Year, Department of Mathematics, Imperial College London.
     - year: 2016
       items: 
-        - BP STEM Scholarship
+        - BP STEM Scholarship, University of Cambridge.
     - year: 2013
       items: 
-        - Rowley Mainhood Award
+        - Rowley Mainhood Award, Emmanuel College, University of Cambridge.
 
