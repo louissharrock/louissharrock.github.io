@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be giving a talk on some ongoing work with on online parameter estimation for interacting particle systems using single trajectory data at the [SIAM Conference on Uncertainty Quantification](https://www.siam.org/conferences/cm/conference/uq24).
+In Feb 2024, I will give an invited talk on online parameter estimation for interacting particle systems at the [SIAM Conference on Uncertainty Quantification](https://www.siam.org/conferences/cm/conference/uq24).
