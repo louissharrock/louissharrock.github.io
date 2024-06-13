@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We have a new preprint on the arXiv! Check it out "[here](https://arxiv.org/abs/2405.14392)".
+We have a new preprint on "Markovian Flow Matching" on the arXiv! Check it out [here](https://arxiv.org/abs/2405.14392).
