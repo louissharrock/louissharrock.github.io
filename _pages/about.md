@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Research Associate in Statistical Machine Learning
+subtitle: Lecturer (Assistant Professor) in Statistical Science
 
 profile:
   align: right
