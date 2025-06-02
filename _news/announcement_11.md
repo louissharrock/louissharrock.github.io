@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-10-07 15:59:00-0400
+date: 2024-05-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper - "[Markovian Flow Matching: Accelerating MCMC with Continuous Normalizing Flows](https://arxiv.org/abs/2405.14392)" - has been accepted to NeurIPS 2025!
+Our paper - "[Learning-Rate-Free Stochastic Optimization over Riemannian Manifolds](https://arxiv.org/abs/2406.02296)" - has also been accepted as a spotlight at ICML 2024!
