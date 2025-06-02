@@ -92,7 +92,7 @@ poster = {coin-poster.pdf},
 
 @article{Sharrock2023a,
 author = {Sharrock, Louis and Mackey, Lester and Nemeth, Christopher},
-journal = {Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS 2023)},
+journal = {Proceedings of the 37th Annual Conference on Neural Information Processing Systems (NeurIPS 2023)},
 title = {{Learning Rate Free Sampling in Constrained Domains}},
 year = {2023},
 altmetric = {false},
@@ -146,12 +146,13 @@ abstract = {In recent years, interest in gradient-based optimization over Rieman
 
 @article{Cabezas2024,
 author = {Cabezas, Alberto and Sharrock, Louis and Nemeth, Christopher},
-journal = {arXiv preprint},
+journal = {Proceedings of the 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024)},
 title = {{Markovian Flow Matching: Accelerating MCMC with Continuous Normalizing Flows}},
 year = {2024},
 altmetric = {false},
-abbr = {arXiv},
+abbr = {NeurIPS},
+html = {https://openreview.net/forum?id=amJyuVqSaf},
 arxiv = {2405.14392},
-abstract = {Continuous normalizing flows (CNFs) learn the probability path between a reference and a target density by modeling the vector field generating said path using neural networks. Recently, Lipman et al. (2022) introduced a simple and inexpensive method for training CNFs in generative modeling, termed flow matching (FM). In this paper, we re-purpose this method for probabilistic inference by incorporating Markovian sampling methods in evaluating the FM objective and using the learned probability path to improve Monte Carlo sampling. We propose a sequential method, which uses samples from a Markov chain to fix the probability path defining the FM objective. We augment this scheme with an adaptive tempering mechanism that allows the discovery of multiple modes in the target. Under mild assumptions, we establish convergence to a local optimum of the FM objective, discuss improvements in the convergence rate, and illustrate our methods on synthetic and real-world examples.},
+abstract = {Continuous normalizing flows (CNFs) learn the probability path between a reference distribution and a target distribution by modeling the vector field generating said path using neural networks. Recently, Lipman et al. (2022) introduced a simple and inexpensive method for training CNFs in generative modeling, termed flow matching (FM). In this paper, we repurpose this method for probabilistic inference by incorporating Markovian sampling methods in evaluating the FM objective, and using the learned CNF to improve Monte Carlo sampling. Specifically, we propose an adaptive Markov chain Monte Carlo (MCMC) algorithm, which combines a local Markov transition kernel with a non-local, flow-informed transition kernel, defined using a CNF. This CNF is adapted on-the-fly using samples from the Markov chain, which are used to specify the probability path for the FM objective. Our method also includes an adaptive tempering mechanism that allows the discovery of multiple modes in the target distribution. Under mild assumptions, we establish convergence of our method to a local optimum of the FM objective. We then benchmark our approach on several synthetic and real-world examples, achieving similar performance to other state-of-the-art methods but often at a significantly lower computational cost.},
 }
 
