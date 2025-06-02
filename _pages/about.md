@@ -9,9 +9,10 @@ profile:
   image: profile-pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Fry Building</p>
-    <p>Woodland Road</p>
-    <p>Bristol, BS8 1UG</p>
+    <p>Room 235</p>
+    <p>1-19 Torrington Place/p>
+    <p>London</p>
+    <p>WC1E 7HB</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
