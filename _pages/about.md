@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Room 235</p>
-    <p>1-19 Torrington Place/p>
+    <p>1-19 Torrington Place</p>
     <p>London</p>
     <p>WC1E 7HB</p>
 
