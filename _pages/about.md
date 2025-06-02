@@ -6,7 +6,7 @@ subtitle: Lecturer in Statistical Science
 
 profile:
   align: right
-  image: headshot.jpeg
+  image: profile-pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Room 235</p>
