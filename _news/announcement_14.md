@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-In Jun 2025, I will give an invited talk on parameter-free optimisation on the space of probability measures at the [Isaac Newton Institute](https://www.newton.ac.uk/) workshop on [Accelerating statistical inference and experimental design with machine learning](https://www.newton.ac.uk/event/rclw03/).
+In Jun 2025, I will give an invited talk at the [Isaac Newton Institute](https://www.newton.ac.uk/) workshop on [Accelerating statistical inference and experimental design with machine learning](https://www.newton.ac.uk/event/rclw03/).
