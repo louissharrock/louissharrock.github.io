@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor
+subtitle: Assistant Professor in Statistical Science
 
 profile:
   align: right
