@@ -9,11 +9,10 @@ profile:
   image: profile-pic-2.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Department of Statistical Science</p>
+    <p>Dept. of Statistical Science</p>
     <p>University College London</p>
     <p>1-19 Torrington Place</p>
-    <p>London</p>
-    <p>WC1E 7HB</p>
+    <p>London, WC1E 7HB</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
