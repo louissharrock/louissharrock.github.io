@@ -2,10 +2,10 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: lecture notes & other teaching materials
+description: teaching experience, 
 nav: true
 nav_order: 5
 ---
 
-#### Statistical Machine Learning.
-[MATH30028](https://www.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=MATH30028), Spring Term 2022-2023, University of Bristol.
+#### Previous Courses 
+- [MATH30028](https://www.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=MATH30028), Spring Term 2022-2023, University of Bristol.
