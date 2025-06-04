@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Lecturer in Statistical Science, University College London
+subtitle: Lecturer in Statistical Science
 
 profile:
   align: right
