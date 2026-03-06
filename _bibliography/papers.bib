@@ -168,3 +168,15 @@ arxiv = {2510.25315},
 abstract = {We introduce adaptive, tuning-free step size schedules for gradient-based sampling algorithms obtained as time-discretizations of Wasserstein gradient flows. The result is a suite of tuning-free sampling algorithms, including tuning-free variants of the unadjusted Langevin algorithm (ULA), stochastic gradient Langevin dynamics (SGLD), mean-field Langevin dynamics (MFLD), Stein variational gradient descent (SVGD), and variational gradient descent (VGD). More widely, our approach yields tuning-free algorithms for solving a broad class of stochastic optimization problems over the space of probability measures. Under mild assumptions (e.g., geodesic convexity and locally bounded stochastic gradients), we establish strong theoretical guarantees for our approach. In particular, we recover the convergence rate of optimally tuned versions of these algorithms up to logarithmic factors, in both nonsmooth and smooth settings. We then benchmark the performance of our methods against comparable existing approaches. Across a variety of tasks, our algorithms achieve similar performance to the optimal performance of existing algorithms, with no need to tune a step size parameter.},
 }
 
+@article{Sharrock2026,
+author = {Sharrock, Louis and Kantas, Nikolas and Pavliotis, Grigorios A.},
+journal = {arXiv preprint arXiv:2602.20875},
+title = {{Efficient Online Learning in Interacting Particle Systems}},
+selected = {true},
+year = {2026},
+altmetric = {false},
+abbr = {arXiv},
+arxiv = {2602.20875},
+abstract = {We introduce a new method for online parameter estimation in stochastic interacting particle systems, based on continuous observation of a small number of particles from the system. Our method recursively updates the model parameters using a stochastic approximation of the gradient of the asymptotic log likelihood, which is computed using the continuous stream of observations. Under suitable assumptions, we rigorously establish convergence of our method to the stationary points of the asymptotic log-likelihood of the interacting particle system. We consider asymptotics both in the limit as the time horizon t→∞, for a fixed and finite number of particles, and in the joint limit as the number of particles N→∞ and the time horizon t→∞. Under additional assumptions on the asymptotic log-likelihood, we also establish an L2 convergence rate and a central limit theorem. Finally, we present several numerical examples of practical interest, including a model for systemic risk, a model of interacting FitzHugh--Nagumo neurons, and a Cucker--Smale flocking model. Our numerical results corroborate our theoretical results, and also suggest that our estimator is effective even in cases where the assumptions required for our theoretical analysis do not hold.},
+}
+
