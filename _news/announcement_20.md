@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We have a new preprint on "Efficient Online Learning in Interacting Particle Systems" on the arXiv. Check it out [here](https://arxiv.org/abs/2602.20875). 
+We have a new preprint on "Efficient Online Learning in Interacting Particle Systems" available on the arXiv. Check it out [here](https://arxiv.org/abs/2602.20875). 
