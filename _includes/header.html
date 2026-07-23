@@ -44,9 +44,9 @@
               {% endfor %}
 
               <!-- About -->
-              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/' | relative_url }}">{{ about_title }}
-                  {%- if page.permalink == '/' -%}
+              <li class="nav-item {% if page.url == '/' %}active{% endif %}">
+                <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>{{ about_title }}
+                  {%- if page.url == '/' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
@@ -67,9 +67,9 @@
               {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
               {%- if p.dropdown %}
-              <li class="nav-item dropdown {% if page.title == p.title %}active{% endif %}">
+              <li class="nav-item dropdown {% if page.url == p.url %}active{% endif %}">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ p.title }}
-                  {%- if page.title == p.title -%}
+                  {%- if page.url == p.url -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
@@ -84,9 +84,9 @@
                 </div>
               </li>
               {%- else %}
-              <li class="nav-item {% if page.title == p.title %}active{% endif %}">
-                <a class="nav-link" href="{{ p.url | relative_url }}">{{ p.title }}
-                  {%- if page.title == p.title -%}
+              <li class="nav-item {% if page.url == p.url %}active{% endif %}">
+                <a class="nav-link{% if page.url == p.url %} active{% endif %}" href="{{ p.url | relative_url }}"{% if page.url == p.url %} aria-current="page"{% endif %}>{{ p.title }}
+                  {%- if page.url == p.url -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>

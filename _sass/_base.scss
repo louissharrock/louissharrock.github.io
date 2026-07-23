@@ -220,10 +220,13 @@ blockquote {
     }
   }
 
-  .navbar-nav .nav-item.active>.nav-link {
+  .navbar-nav .nav-item.active>.nav-link,
+  .navbar-nav .nav-link[aria-current="page"] {
     background-color: inherit;
     font-weight: bolder;
     color: var(--global-theme-color);
+    opacity: 1;
+    visibility: visible;
 
     &:hover {
       color: var(--global-hover-color);
