@@ -309,12 +309,16 @@ blockquote {
 .navbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
   color: var(--global-hover-color);
 }
-.navbar.navbar-light .navbar-nav .nav-item.active > .nav-link {
+.navbar.navbar-light .navbar-nav .nav-item.active > .nav-link,
+.navbar.navbar-light .navbar-nav .nav-link[aria-current=page] {
   background-color: inherit;
   font-weight: bolder;
   color: var(--global-theme-color);
+  opacity: 1;
+  visibility: visible;
 }
-.navbar.navbar-light .navbar-nav .nav-item.active > .nav-link:hover {
+.navbar.navbar-light .navbar-nav .nav-item.active > .nav-link:hover,
+.navbar.navbar-light .navbar-nav .nav-link[aria-current=page]:hover {
   color: var(--global-hover-color);
 }
 .navbar.navbar-light .navbar-brand.social {
