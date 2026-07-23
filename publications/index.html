@@ -80,9 +80,6 @@
                 <a class="nav-link" href="/publications/">publications<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item ">
-                <a class="nav-link" href="/cv/">cv</a>
-              </li>
-              <li class="nav-item ">
                 <a class="nav-link" href="/teaching/">teaching</a>
               </li>
 
@@ -173,7 +170,7 @@
         <div class="col-sm-2 abbr"><abbr class="badge">arXiv</abbr></div>
 
         <!-- Entry bib key -->
-        <div id="Sharrock2027" class="col-sm-8">
+        <div id="Sharrock2026a" class="col-sm-8">
         <!-- Title -->
         <div class="title">Wasserstein Gradient Flows for Batch Bayesian Optimal Experimental Design</div>
         <!-- Author -->
@@ -207,6 +204,149 @@
           <!-- Hidden abstract block -->
           <div class="abstract hidden">
             <p>Bayesian optimal experimental design (BOED) provides a powerful, decision-theoretic framework for selecting experiments so as to maximise the expected utility of the data to be collected. In practice, however, its applicability can be limited by the difficulty of optimising the chosen utility. The expected information gain (EIG), for example, is often high-dimensional and strongly non-convex. This challenge is particularly acute in the batch setting, where multiple experiments are to be designed simultaneously. In this paper, we introduce a new approach to batch EIG-based BOED via a probabilistic lifting of the original optimisation problem to the space of probability measures. In particular, we propose to optimise an entropic regularisation of the expected utility over the space of design measures. Under mild conditions, we show that this objective admits a unique minimiser, which can be explicitly characterised in the form of a Gibbs distribution. The resulting design law can be used directly as a randomised batch-design policy, or as a computational relaxation from which a deterministic batch is extracted. To obtain scalable approximations when the batch size is large, we then consider two tractable restrictions of the full batch distribution: a mean-field family, and an i.i.d. product family. For the i.i.d. objective, and formally for its mean-field extension, we derive the corresponding Wasserstein gradient flow, characterise its long-time behaviour, and obtain particle-based algorithms via space-time discretisations. We also introduce doubly stochastic variants that combine interacting particle updates with Monte Carlo estimators of the EIG gradient. Finally, we illustrate the performance of the proposed methods in several numerical experiments, demonstrating their ability to explore multimodal optimisation landscapes and obtain high-utility batches in challenging examples.</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">arXiv</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="Sharrock2026b" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Recursive Maximum Likelihood Estimation for Interacting Particle Systems using Virtual Particles</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <em>Louis Sharrock</em>, <a href="https://www.ma.imperial.ac.uk/~nkantas/" rel="external nofollow noopener" target="_blank">Nikolas Kantas</a>, and <a href="https://www.ma.imperial.ac.uk/~pavl/" rel="external nofollow noopener" target="_blank">Grigorios A. Pavliotis</a>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>arXiv preprint arXiv:2605.00786</em>, 2026
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="http://arxiv.org/abs/2605.00786" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arXiv</a>
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-altmetric-id="false"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>We study recursive maximum likelihood estimation for stochastic interacting particle systems based on continuous observation of a single particle. In this regime, consistent estimation of the finite-particle log-likelihood is not possible, even in the limit as the number of particles N→∞and the time horizon t→∞. We thus seek to optimise the stationary log-likelihood of the limiting mean-field system. We achieve this via a form of stochastic gradient estimate in continuous time, with stochastic gradient estimates computed using the continuous trajectory of the single observed particle, alongside a virtual interacting particle system and a virtual tangent interacting particle system, which are integrated with the online parameter estimate. For fixed numbers of real and virtual particles, we show that the resulting algorithms drive the gradient of a finite-particle surrogate objective to zero as t\to∞. We then prove that, in the iterated limit t\to∞followed by N,M\to∞, these surrogate gradients converge uniformly to the gradient of the stationary log-likelihood of the limiting mean-field system, yielding convergence to its stationary points. We illustrate the method on several numerical examples, including a model with quadratic confinement and interaction potentials, a model of interacting FitzHugh–Nagumo neurons, and a stochastic Kuramoto model.</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">arXiv</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="Kang2026" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">A Gradient Flow Perspective on Minimum MMD Estimation</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        Sophia Seulkee Kang, <em>Louis Sharrock</em>, Xiaoyuan Cheng, François-Xavier Briol, and
+          <span class="more-authors" title="click to view 1 more author" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '1 more author' ? 'Zonghao Chen' : '1 more author';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">1 more author</span>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>arXiv preprint arXiv:2607.03871</em>, 2026
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="http://arxiv.org/abs/2607.03871" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arXiv</a>
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-altmetric-id="false"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Minimum maximum mean discrepancy (MMD) estimation has emerged as a robust and likelihood-free alternative to maximum likelihood estimation for parameter estimation. Yet, despite its practical success, the associated optimization problem remains poorly understood, with theoretical guarantees for existing algorithms hinging on convexity assumptions that rarely hold in practice. We address this gap by proposing a preconditioned gradient descent (PGD) scheme, establishing its asymptotic global convergence under explicit gradient-dominance and projection-residual conditions. Our approach is inspired by recent progress on MMD gradient flows, a nonparametric descent scheme on the space of probability measures. We provide extensive empirical evidence that our PGD scheme outperforms standard gradient descent across a range of challenging parameter estimation and composite hypothesis testing problems.</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">arXiv</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="Sharrock2026c" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">LatentFlow: A General Framework for Conditioning Stochastic Processes</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <em>Louis Sharrock</em>, Lachlan Astfalck, and Henry Moss</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>arXiv preprint arXiv:2607.12922</em>, 2026
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="http://arxiv.org/abs/2607.12922" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arXiv</a>
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-altmetric-id="false"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Stochastic-process models are, as a rule, far easier to simulate than to condition. Non-linear observations, non-Gaussian likelihoods, black-box information, and global constraints all induce intractable conditional laws, requiring bespoke, model-specific constructions. We introduce LatentFlow, a single framework for conditioning stochastic processes, with no learned neural approximations and no training. Our starting point is to write the stochastic process as the deterministic image of a tractable latent innovation, f_0 = T_\vartheta(\xi_0), with \xi_0 sampled from a simple reference distribution. This reduces process-level conditioning to latent-space inference: pull the likelihood back through T_\vartheta, sample the resulting latent law with a tractable guided probability flow, and push the samples forward. This construction is provably exact at the level of the target law; in practice, approximation enters only through finite terminal noising, Monte Carlo guidance, and time discretisation of the continuous-time dynamics, each of which is explicit and systematically reducible. As LatentFlow is training-free, conditioning reduces to solving a single reverse-time SDE. This enables conditional sampling in seconds on a single desktop CPU across model classes that have never shared a scalable method: classical spatial priors, nonlinear stochastic dynamics, mechanistic models from the physical and life sciences, stochastic PDEs, heavy-tails and extremes, point and discrete-state processes, and neural or simulator-defined processes.</p>
           </div>
         </div>
       </div>
