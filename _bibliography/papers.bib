@@ -180,7 +180,7 @@ arxiv = {2602.20875},
 abstract = {We introduce a new method for online parameter estimation in stochastic interacting particle systems, based on continuous observation of a small number of particles from the system. Our method recursively updates the model parameters using a stochastic approximation of the gradient of the asymptotic log likelihood, which is computed using the continuous stream of observations. Under suitable assumptions, we rigorously establish convergence of our method to the stationary points of the asymptotic log-likelihood of the interacting particle system. We consider asymptotics both in the limit as the time horizon t→∞, for a fixed and finite number of particles, and in the joint limit as the number of particles N→∞ and the time horizon t→∞. Under additional assumptions on the asymptotic log-likelihood, we also establish an L2 convergence rate and a central limit theorem. Finally, we present several numerical examples of practical interest, including a model for systemic risk, a model of interacting FitzHugh--Nagumo neurons, and a Cucker--Smale flocking model. Our numerical results corroborate our theoretical results, and also suggest that our estimator is effective even in cases where the assumptions required for our theoretical analysis do not hold.},
 }
 
-@article{Sharrock2026,
+@article{Sharrock2026a,
 author = {Sharrock, Louis},
 journal = {arXiv preprint arXiv:2603.12102},
 title = {{Wasserstein Gradient Flows for Batch Bayesian Optimal Experimental Design}},
@@ -192,3 +192,35 @@ arxiv = {2603.12102},
 abstract = {Bayesian optimal experimental design (BOED) provides a powerful, decision-theoretic framework for selecting experiments so as to maximise the expected utility of the data to be collected. In practice, however, its applicability can be limited by the difficulty of optimising the chosen utility. The expected information gain (EIG), for example, is often high-dimensional and strongly non-convex. This challenge is particularly acute in the batch setting, where multiple experiments are to be designed simultaneously. In this paper, we introduce a new approach to batch EIG-based BOED via a probabilistic lifting of the original optimisation problem to the space of probability measures. In particular, we propose to optimise an entropic regularisation of the expected utility over the space of design measures. Under mild conditions, we show that this objective admits a unique minimiser, which can be explicitly characterised in the form of a Gibbs distribution. The resulting design law can be used directly as a randomised batch-design policy, or as a computational relaxation from which a deterministic batch is extracted. To obtain scalable approximations when the batch size is large, we then consider two tractable restrictions of the full batch distribution: a mean-field family, and an i.i.d. product family. For the i.i.d. objective, and formally for its mean-field extension, we derive the corresponding Wasserstein gradient flow, characterise its long-time behaviour, and obtain particle-based algorithms via space-time discretisations. We also introduce doubly stochastic variants that combine interacting particle updates with Monte Carlo estimators of the EIG gradient. Finally, we illustrate the performance of the proposed methods in several numerical experiments, demonstrating their ability to explore multimodal optimisation landscapes and obtain high-utility batches in challenging examples.},
 }
 
+@article{Sharrock2026b,
+author = {Sharrock, Louis and Kantas, Nikolas and Pavliotis, Grigorios A.},
+journal = {arXiv preprint arXiv:2605.00786},
+title = {{Recursive Maximum Likelihood Estimation for Interacting Particle Systems using Virtual Particles}},
+year = {2026},
+altmetric = {false},
+abbr = {arXiv},
+arxiv = {2605.00786},
+abstract = {We study recursive maximum likelihood estimation for stochastic interacting particle systems based on continuous observation of a single particle. In this regime, consistent estimation of the finite-particle log-likelihood is not possible, even in the limit as the number of particles $N\rightarrow\infty$ and the time horizon $t\rightarrow\infty$. We thus seek to optimise the stationary log-likelihood of the limiting mean-field system. We achieve this via a form of stochastic gradient estimate in continuous time, with stochastic gradient estimates computed using the continuous trajectory of the single observed particle, alongside a virtual interacting particle system and a virtual tangent interacting particle system, which are integrated with the online parameter estimate. For fixed numbers of real and virtual particles, we show that the resulting algorithms drive the gradient of a finite-particle surrogate objective to zero as $t\to\infty$. We then prove that, in the iterated limit $t\to\infty$ followed by $N,M\to\infty$, these surrogate gradients converge uniformly to the gradient of the stationary log-likelihood of the limiting mean-field system, yielding convergence to its stationary points. We illustrate the method on several numerical examples, including a model with quadratic confinement and interaction potentials, a model of interacting FitzHugh--Nagumo neurons, and a stochastic Kuramoto model.},
+}
+
+@article{Kang2026,
+author = {Kang, Sophia Seulkee and Sharrock, Louis and Cheng, Xiaoyuan and Briol, François-Xavier and Chen, Zonghao},
+journal = {arXiv preprint arXiv:2607.03871},
+title = {{A Gradient Flow Perspective on Minimum MMD Estimation}},
+year = {2026},
+altmetric = {false},
+abbr = {arXiv},
+arxiv = {2607.03871},
+abstract = {Minimum maximum mean discrepancy (MMD) estimation has emerged as a robust and likelihood-free alternative to maximum likelihood estimation for parameter estimation. Yet, despite its practical success, the associated optimization problem remains poorly understood, with theoretical guarantees for existing algorithms hinging on convexity assumptions that rarely hold in practice. We address this gap by proposing a preconditioned gradient descent (PGD) scheme, establishing its asymptotic global convergence under explicit gradient-dominance and projection-residual conditions. Our approach is inspired by recent progress on MMD gradient flows, a nonparametric descent scheme on the space of probability measures. We provide extensive empirical evidence that our PGD scheme outperforms standard gradient descent across a range of challenging parameter estimation and composite hypothesis testing problems.},
+}
+
+@article{Sharrock2026c,
+author = {Sharrock, Louis and Astfalck, Lachlan and Moss, Henry},
+journal = {arXiv preprint arXiv:2607.12922},
+title = {{LatentFlow: A General Framework for Conditioning Stochastic Processes}},
+year = {2026},
+altmetric = {false},
+abbr = {arXiv},
+arxiv = {2607.12922},
+abstract = {Stochastic-process models are, as a rule, far easier to simulate than to condition. Non-linear observations, non-Gaussian likelihoods, black-box information, and global constraints all induce intractable conditional laws, requiring bespoke, model-specific constructions. We introduce LatentFlow, a single framework for conditioning stochastic processes, with no learned neural approximations and no training. Our starting point is to write the stochastic process as the deterministic image of a tractable latent innovation, $f_0 = T_{\vartheta}(\xi_0)$, with $\xi_0$ sampled from a simple reference distribution. This reduces process-level conditioning to latent-space inference: pull the likelihood back through $T_{\vartheta}$, sample the resulting latent law with a tractable guided probability flow, and push the samples forward. This construction is provably exact at the level of the target law; in practice, approximation enters only through finite terminal noising, Monte Carlo guidance, and time discretisation of the continuous-time dynamics, each of which is explicit and systematically reducible. As LatentFlow is training-free, conditioning reduces to solving a single reverse-time SDE. This enables conditional sampling in seconds on a single desktop CPU across model classes that have never shared a scalable method: classical spatial priors, nonlinear stochastic dynamics, mechanistic models from the physical and life sciences, stochastic PDEs, heavy-tails and extremes, point and discrete-state processes, and neural or simulator-defined processes.},
+}
