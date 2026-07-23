@@ -44,4 +44,32 @@
     
 "Simons":
   - firstname: ["Jack", "J."]
-    url: https://www.bristolmathsresearch.org/staff-profile/mr-jack-simons/
+    url: https://compass.blogs.bristol.ac.uk/students/jack-simons/
+
+"Cabezas":
+  - firstname: ["Alberto", "A."]
+    url: https://research.lancaster-university.uk/en/persons/alberto-cabezas-gonzalez/
+
+"Kang":
+  - firstname: ["Sophia Seulkee", "Sophia", "S. S.", "S."]
+    url: https://fsml-ucl.github.io/authors/sophia/
+
+"Cheng":
+  - firstname: ["Xiaoyuan", "X."]
+    url: https://www.ucl.ac.uk/engineering/research/centres-institutes-and-labs/dynamic-systems-lab
+
+"Briol":
+  - firstname: ["François-Xavier", "F.-X.", "F."]
+    url: https://fxbriol.github.io/
+
+"Chen":
+  - firstname: ["Zonghao", "Z."]
+    url: https://hudsonchen.github.io/
+
+"Astfalck":
+  - firstname: ["Lachlan", "Lachlan C.", "L.", "L. C."]
+    url: https://astfalckl.github.io/
+
+"Moss":
+  - firstname: ["Henry", "Henry B.", "H.", "H. B."]
+    url: https://henrymoss.github.io/
